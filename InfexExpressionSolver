@@ -1,6 +1,7 @@
 //Last Updated 6-29-2020
 //             7:24 PM
 //This is a group project that was completed with the following classmates: Alyssa Petit and William Waugh
+//Problem for a Data Structures course at SCC taught by Dayu Wang
 package Project_2;
 import java.util.Stack;
 import java.util.Scanner;
